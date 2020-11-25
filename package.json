@@ -1,0 +1,17 @@
+{
+  "name": "tarjetas_html_css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "esbuild": "^0.8.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "esbuild src/app.css --bundle --minify --outfile=public/styles.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
