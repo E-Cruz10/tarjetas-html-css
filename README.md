@@ -7,4 +7,4 @@
 # created:  2020 Nov 25
 ---
 
-![Captura](chrome-capture.gif)
+![Captura](gif.gif)
